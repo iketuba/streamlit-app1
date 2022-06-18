@@ -1,1 +1,1 @@
-## streamlit-app1を用いてwebアプリを作ります！
+## streamlitを用いてwebアプリを作ります！
